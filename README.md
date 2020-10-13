@@ -2,4 +2,4 @@
 
 Checkout the PROJECT_REPORT.pdf for details about the mechanism.
 
-Demo Video : https://drive.google.com/open?id=1TvgripEoNXz_YEhOSwvWvOOjKnuBPTAm
+Demo Video : https://drive.google.com/file/d/1DOSCLdNRBInrjfo0GeXPRi_JD6GbKvxz/view?usp=sharing
